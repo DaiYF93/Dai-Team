@@ -17,7 +17,7 @@
 
 #### 中药药理学
 ----------------------
-1.Zhou H Y , Dong F Q , Du X L , et al. Antitumor activities of biscoumarin and dihydropyran derivatives[J]. Bioorganic & Medicinal Chemistry Letters, 2016:S0960894X16307363.
+1.Zhou H Y , Dong F Q , Du X L , et al. Antitumor activities of biscoumarin and dihydropyran derivatives[J]. Bioorganic & Medicinal Chemistry Letters, 2016.
 2.Dai Y F , Zhou W W , Meng J , et al. The pharmacological activities and mechanisms of artemisinin and its derivatives: a systematic review[J]. Medicinal Chemistry Research, 2017, 26(5):867-880.
 3.Qiang W , Cai W , Yang Q , et al. Artemisinin B improves learning and memory impairment in AD dementia mice by suppressing neuroinflammation[J]. Neuroscience, 2018.
 

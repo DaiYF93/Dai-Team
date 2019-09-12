@@ -31,11 +31,7 @@
 #### 联系方式
 -----------
 Yifei Dai(戴逸飞）
-
 PhD candidate
-
 _School of Medicine,Tsinghua University_
-
 _Phone:15901021942_
-
 _Email:dyf19@mails.tsinghua.edu.cn_

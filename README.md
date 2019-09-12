@@ -1,37 +1,16 @@
 ## Welcome to Dai-Team Pages
 
-You can use the [editor on GitHub](https://github.com/DaiYF93/daiyf.github.com/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+欢迎光临Dai-Team主页！
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+科研方向：系统药理学与生物信息学、药性理论研究、HTS2技术在中医药的应用、中药药理学
 
-### Markdown
+# 系统药理学与生物信息学
+1.Dai Y, Liang S, Qiang W. A New Strategy to Uncover the Anticancer Mechanism of Chinese Compound Formula by Integrating Systems Pharmacology and Bioinformatics[J]. Evidence-Based Complementary and Alternative Medicine, 2018, 2018:1-19.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# HTS2技术在中医药的应用
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DaiYF93/daiyf.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# 中药药理学
+1.Zhou H Y , Dong F Q , Du X L , et al. Antitumor activities of biscoumarin and dihydropyran derivatives[J]. Bioorganic & Medicinal Chemistry Letters, 2016:S0960894X16307363.
+2.Dai Y F , Zhou W W , Meng J , et al. The pharmacological activities and mechanisms of artemisinin and its derivatives: a systematic review[J]. Medicinal Chemistry Research, 2017, 26(5):867-880.
+3.Qiang W , Cai W , Yang Q , et al. Artemisinin B improves learning and memory impairment in AD dementia mice by suppressing neuroinflammation[J]. Neuroscience, 2018.

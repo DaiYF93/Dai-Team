@@ -27,10 +27,8 @@
 1.基于系统药理学挖掘黄连解毒汤治疗肿瘤的分子生物机制.第三届全国中医药博士生创新发展论坛.北京.2017年7月
 
 
-
-Yifei Dai(戴逸飞)
+Yifei Dai(戴逸飞）
 PhD candidate
-医学院，清华大学
 School of Medicine,Tsinghua University
 Phone:15901021942
-Email: dyf19@mails.tsinghua.edu.cn
+Email:dyf19@mails.tsinghua.edu.cn
